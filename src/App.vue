@@ -325,7 +325,7 @@ ul {
   // position: fixed;
   // left: 0;
   // bottom: 0;
-  background: rgb(207, 207, 207);
+  background: white;
   padding: 1em 0;
   text-align: left;
   vertical-align: top;
